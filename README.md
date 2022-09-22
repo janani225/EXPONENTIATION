@@ -10,10 +10,11 @@ To write a program to find the exponentiation of a number.
 ## Algorithm
 1. Get the input from the user.
 2. Use exponentiation operator to find the exponentiation of a number.
+3. print the output
+4. End the program
 
 ## Program:
 ```
-/*
 Program to find the exponentiation of a number.
 Developed by: V.S.JANANI
 RegisterNumber: 22003192
@@ -22,7 +23,6 @@ b=int(input())
 c=a**b
 print("Exponentiation of a given number:",c)
 
-*/
 ```
 
 ## Output:
